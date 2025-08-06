@@ -20,14 +20,14 @@ Do Checkout -> https://mangalam-17.github.io/Portfolio-Website/
 
 ![Skills and Interests Section](https://github.com/Mangalam-17/Portfolio-Website/blob/d09d9766c17b66253168dd3ac70221e70b0df284/Screenshots/Skills%26Interests.png)
 
-1. Projects Section
+4. Projects Section
 
 ![Projects Section](https://github.com/Mangalam-17/Portfolio-Website/blob/d09d9766c17b66253168dd3ac70221e70b0df284/Screenshots/Projects.png)
 
-1. Contact Section
+5. Contact Section
 
 ![Contact Section](https://github.com/Mangalam-17/Portfolio-Website/blob/d09d9766c17b66253168dd3ac70221e70b0df284/Screenshots/Contacts.png)
 
-1. Footer Section
+6. Footer Section
 
 ![Footer Section](https://github.com/Mangalam-17/Portfolio-Website/blob/d09d9766c17b66253168dd3ac70221e70b0df284/Screenshots/Footer.png)
