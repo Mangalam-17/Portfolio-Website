@@ -8,8 +8,6 @@ Do Checkout -> https://mangalam-17.github.io/Portfolio-Website/
 
 ## Screenshots 👁️‍🗨️
 
-## Screenshots 👁️‍🗨️
-
 Single Page
 
 ![Complete Portfolio](https://github.com/Mangalam-17/Vault-Of-Codes-Internship-2025/blob/f67283012e3a8d2515e1758d7d3d65ea9a2598ff/Assignment-1/Complete.png)
